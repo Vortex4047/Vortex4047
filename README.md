@@ -1,8 +1,35 @@
 # 💫 About Me:
-🔭 I’m currently working on projects in python and SQL<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning c and c++
+Got it 👍 Thanks for clarifying, Kritik!
+Here’s a **longer GitHub bio draft** for your profile `Vortex4047`, based on what you’ve worked on and what you’re exploring:
 
+---
 
-## 🌐 Socials:
+## 👋 Hey, I’m Kritik (@Vortex4047)
+
+🚀 **Aspiring Developer | Python & AI Enthusiast | Creative Builder**
+
+I love experimenting with technology to create projects that are **useful, interactive, and beautifully designed**. My work ranges from **AI-powered apps** to **modern Python tools**, with a focus on combining functionality with creativity.
+
+### 💻 What I Do
+
+* 🧠 Build **AI Chatbots & Assistants** with features like contextual memory, plugins, modern UIs, and animated interactions.
+* 🎨 Explore **UI/UX design** using glassmorphism, Uiverse-inspired components, animations, and modern styling.
+* 📚 Work on **Python-based applications**, including:
+
+  * PDF-to-Audiobook converters
+  * Code Explainer & Refactor Tools
+  * Music Discovery Bots (Spotify, YouTube API)
+  * Interactive games (mazes, tic-tac-toe with AI, open-world concepts)
+* 🌱 Experiment with sustainable + creative side projects like **IndieBazaar** and **digital magazine design**.
+
+### ⚡ Interests
+
+* Python development & problem solving
+* AI integrations & APIs (Spotify, YouTube, OpenRouter, etc.)
+* Designing **clean, modern, and animated interfaces**
+* Blending **tech + creativity** in projects
+
+## 🌐 Let’s Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kritik.saha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritik-saha-muj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritik1781saha@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,10 +39,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Vortex4047&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
