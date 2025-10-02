@@ -1,9 +1,4 @@
 # 💫 About Me:
-Got it 👍 Thanks for clarifying, Kritik!
-Here’s a **longer GitHub bio draft** for your profile `Vortex4047`, based on what you’ve worked on and what you’re exploring:
-
----
-
 ## 👋 Hey, I’m Kritik (@Vortex4047)
 
 🚀 **Aspiring Developer | Python & AI Enthusiast | Creative Builder**
