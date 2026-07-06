@@ -164,24 +164,24 @@ My engineering philosophy centers around a **product-first mindset**—building 
 
 ### ✦ GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&show_icons=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="48%" />
-</div>
+</p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" width="60%" />
-</div>
+</p>
 
 ---
 
 ### ✦ GitHub Trophies
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
@@ -197,10 +197,9 @@ My engineering philosophy centers around a **product-first mindset**—building 
 
 <div align="center">
   <a href="https://github.com/Vortex4047">
-    <img src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/github-contribution-grid-snake.svg?v=1" alt="github contribution grid snake animation" width="100%" />
   </a>
 </div>
-
 ---
 
 ### ✦ Current Focus
