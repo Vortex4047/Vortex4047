@@ -1,320 +1,221 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=220&section=header&text=Vortex4047&fontSize=42&fontAlignY=30&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" alt="header banner" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Kritik%20Saha&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=20&descColor=E0AAFF" alt="Header Wave" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products;Shipping+production-grade+full-stack+systems;Designing+clean+and+scalable+developer+experiences;Turning+ideas+into+reliable+software&center=true&width=780&height=60&color=A78BFA&vCenter=true&pause=1000&size=22" alt="typing svg" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Software+Systems;Architecting+AI+%2F+ML+Solutions;Full-Stack+Engineering+Excellence;Data-Driven+Product+Development" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Engineering-7c3aed?style=for-the-badge&labelColor=111827" alt="academic badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-8b5cf6?style=for-the-badge&labelColor=111827" alt="academic badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-6366f1?style=for-the-badge&labelColor=111827" alt="academic badge" />
-  <img src="https://img.shields.io/badge/Location-India-4f46e5?style=for-the-badge&labelColor=111827" alt="location badge" />
-</p>
+  <br />
 
-<p align="center">
-  <a href="https://vortex4047.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/vortex4047/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:vortex4047@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/Vortex4047" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
+  <!-- Academic & Location Badges -->
+  <img src="https://img.shields.io/badge/Education-B.Tech_CSE_@_MUJ-5A189A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/Location-India-3C096C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vortex4047&style=for-the-badge&color=8b5cf6" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Vortex4047?style=for-the-badge&color=7c3aed&labelColor=111827" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Vortex4047?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6366f1&labelColor=111827" alt="stars" />
-</p>
+  <br /><br />
+
+  <!-- Social & Connection Buttons -->
+  <a href="https://vortex4047.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-9D4EDD?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kritiksaha"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kritik.saha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Vortex4047"><img src="https://img.shields.io/badge/GitHub-Vortex4047-3C096C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <br /><br />
+
+  <!-- GitHub Statistics Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Vortex4047&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vortex4047?color=7B2CBF&style=flat-square&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Vortex4047?color=5A189A&style=flat-square&label=STARS" alt="Stars" />
+</div>
+
+<br />
 
 ---
 
-## About
+### ✦ About Me
 
-I am a software engineering focused builder who enjoys turning complex ideas into elegant, production-ready products. My work sits at the intersection of full-stack development, AI/ML, data-driven product design, and clean interface engineering.
+I am a **Software Engineer** focusing on high-performance backend systems, full-stack architecture, and applied machine learning. With a strong foundation in computer science and engineering, I specialize in translating complex algorithms into scalable, enterprise-grade applications. 
 
-I care deeply about writing maintainable code, designing systems that scale, and shipping experiences that feel polished, fast, and reliable. My development style combines product thinking with practical engineering so every feature has both technical clarity and user value.
+My engineering philosophy centers around a **product-first mindset**—building robust, maintainable solutions that deliver measurable impact. Whether architecting database schemas, deploying microservices, or developing AI models, I prioritize system integrity, performance optimization, and clean code architecture.
 
-My strongest areas include:
-- full-stack web application development
-- AI-assisted product workflows and LLM integration
-- analytics-driven dashboards and finance-oriented systems
-- modern UI engineering with performance and usability in mind
-
-### Open To
-- software engineering internships
-- AI / ML engineering opportunities
-- full-stack product engineering roles
-- open source collaboration
-- hackathons, technical clubs, and high-impact product builds
+**Open To:** Software Engineering Roles • AI/ML Engineering Positions • Research Internships • Open Source Collaborations
 
 ---
 
-## Tech Stack
+### ✦ Tech Stack
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,sql,bash" alt="languages" />
-</p>
+**Programming Languages**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp&theme=dark" alt="Languages" /></a>
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,nextjs,redux" alt="frontend" />
-</p>
+**Frontend Architecture**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" alt="Frontend" /></a>
 
-### Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,postgresql,sqlite" alt="backend and databases" />
-</p>
+**Backend & Databases**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis&theme=dark" alt="Backend & DB" /></a>
 
-### Cloud, DevOps & Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,postman,firebase" alt="cloud devops tooling" />
-</p>
+**Cloud, DevOps & Tooling**  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,bash,postman&theme=dark" alt="DevOps" /></a>
 
 ---
 
-## AI / ML Expertise
+### ✦ AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---:|---|
-| LLM Integration | Advanced | OpenAI-compatible workflows, local model routing, prompt orchestration, and context-aware assistants |
-| Prompt Engineering | Advanced | Structured prompts, role separation, output shaping, and product-safe response design |
-| AI Product Design | Advanced | Chat-based utilities, finance assistants, workflow automation, and user-centric AI features |
-| Data Analysis | Intermediate | Metric tracking, finance insights, forecasting-oriented views, and structured reporting |
-| Model-Aware UX | Intermediate | Latency handling, error recovery, graceful fallback states, and explainable AI interactions |
-| Applied Automation | Intermediate | Reusable pipelines, user-triggered actions, and low-friction productivity systems |
+| :--- | :--- | :--- |
+| **Predictive Modeling** | Advanced | Designing and deploying supervised learning models for data classification and continuous prediction algorithms. |
+| **Data Processing** | Advanced | High-volume data pipeline engineering, feature extraction, and mathematical optimizations (NumPy, Pandas, Scikit-learn). |
+| **Generative AI Integration** | Intermediate | Integrating LLMs into applications for intelligent automated assistance and real-time natural language processing. |
+| **Computer Vision** | Intermediate | Implementation of convolutional neural networks (CNNs) for image classification and spatial data analysis. |
 
 ---
 
-## Featured Projects
+### ✦ Featured Projects
 
 <details>
-<summary><strong>Finance Mentor AI</strong></summary>
+  <summary><b>▸ Full-Stack GitHub Analytics Dashboard</b></summary>
+  <br />
+  A comprehensive, high-performance web application designed to visualize a developer's coding journey by deeply integrating with the GitHub REST API and GraphQL infrastructure.
 
-A premium, finance-focused full-stack experience designed for structured money management, planning, analytics, and AI-assisted guidance. Built with a product-first mindset for clarity, trust, and long-term maintainability.
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | TypeScript, React.js, Node.js, Express, Chart.js |
+  | **Scale** | Multi-user capable, handling concurrent external API polling |
+  | **Performance** | Optimized rendering of large datasets with state-caching mechanisms |
+  | **Security** | Implemented secure token handling and OAuth constraints |
+  | **Impact** | Provides granular insights into developer productivity and code patterns |
+  | **Repository** | [View Source Code](https://github.com/Vortex4047) |
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| React, TypeScript, Vite, Tailwind, Recharts, Framer Motion, Context API, Ollama | Multi-module personal finance platform | Fast client-side interactions with lightweight state architecture | Local-first design, controlled AI context, and explicit data boundaries | Strong showcase of product engineering, dashboards, and AI integration | [pbl-project](https://github.com/Vortex4047/pbl-project) |
-
-This project reflects end-to-end product execution: architecture, UI systems, AI integration, analytics, and deployment-ready engineering.
-
+  *Professional Context:* Architected the entire system from the ground up, focusing heavily on asynchronous state management and decoupling the backend data ingestion services from the frontend visualization layers to ensure maximum responsiveness.
 </details>
 
 <details>
-<summary><strong>AI Chat Assistant / Code Helper</strong></summary>
+  <summary><b>▸ Enhanced Code Helper Pro</b></summary>
+  <br />
+  An intelligent, desktop-based development assistant that leverages artificial intelligence to analyze, debug, and optimize codebase structures across multiple programming languages.
 
-A modular assistant built for productivity tasks such as explanations, formatting, refactoring, and guided interactions. Designed to keep the interface clean while making AI capabilities practical and accessible.
+  | Attribute | Details |
+  | :--- | :--- |
+  | **Stack** | Python, Tkinter, AI Inference APIs |
+  | **Scale** | Standalone enterprise desktop utility |
+  | **Performance** | Low-latency response processing with asynchronous I/O |
+  | **Security** | Local execution environment with encrypted API key management |
+  | **Impact** | Significantly reduces debugging time and standardizes code quality |
+  | **Repository** | [View Source Code](https://github.com/Vortex4047) |
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Python, CustomTkinter, OpenRouter, modular utility scripts, local configuration | Desktop productivity tool | Responsive UI and lightweight request flow | API-key aware design and controlled feature separation | Demonstrates AI application design, tooling, and modular engineering | [code-helper](https://github.com/Vortex4047) |
-
-This project highlights practical AI usage beyond chat, with utility-focused UX and maintainable structure.
-
-</details>
-
-<details>
-<summary><strong>Portfolio Site</strong></summary>
-
-A developer portfolio designed to present projects, skills, and engineering identity with clarity and polish. Built to support recruiter-friendly presentation and strong personal branding.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| HTML, CSS, JavaScript, GitHub Pages, responsive layout patterns | Personal branding site | Static, fast-loading, and easy to maintain | Minimal attack surface due to static deployment | Strengthens professional presence and project discoverability | [portfolio-site](https://github.com/Vortex4047/portfolio-site) |
-
-This project shows attention to presentation quality, information hierarchy, and web fundamentals.
-
-</details>
-
-<details>
-<summary><strong>Tic Tac Toe</strong></summary>
-
-A classic game implementation focused on clean logic, modular design, and interactive gameplay. Useful for demonstrating algorithmic thinking and frontend-backend alignment.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Flask, Python, UI logic, game-state management | Small interactive application | Quick turn handling and simple decision flow | No sensitive surface area; logic isolated for clarity | Demonstrates game logic, structure, and problem-solving ability | [tic-tac-toe](https://github.com/Vortex4047/Tic-Tac-Toe) |
-
-This project is a compact example of building user-facing logic with clean code organization.
-
-</details>
-
-<details>
-<summary><strong>Music Visualizer</strong></summary>
-
-A visually engaging project centered on audio-reactive interaction and visual rhythm. Built to combine creative interface design with technical implementation.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| Web technologies, visual rendering, audio interaction patterns | Creative showcase project | Smooth enough for visual experimentation and demos | Low-risk static-style architecture | Demonstrates design sense, animation thinking, and frontend creativity | [music-visualizer](https://github.com/Vortex4047/Music-Visualizer) |
-
-This project emphasizes aesthetics, timing, and interactive presentation.
-
+  *Professional Context:* Engineered a robust graphical user interface using Tkinter, integrating seamless dynamic AI model selection. Focused on creating an intuitive developer experience while maintaining strict error handling and system stability.
 </details>
 
 ---
 
-## Experience
+### ✦ Experience
 
-### Branding & Marketing Head — Kabloom India
-**2026 — Present**
+**Software Developer Intern** | **Atlys Nexus Innovations**  
+*Python Developer Internship Program*  
+• Developed and maintained modular Python scripts for internal toolchains.  
+• Collaborated with engineering teams to optimize backend data flow and script execution times.  
+• `Python` `Backend Engineering` `Data Structures` `API Integration`
 
-Focused on shaping brand visibility, launch execution, and growth-oriented communication for a consumer-facing product brand. The role strengthens product thinking, stakeholder coordination, and execution discipline.
+**Technical Intern** | **Ziventra**  
+*Engineering & Development*  
+• Participated in full-lifecycle software development tasks including requirements gathering, coding, and testing.  
+• Assisted in deploying system updates and refining core logic modules.  
+• `Software Architecture` `Agile Methodologies` `Version Control`
 
-- planned launch messaging and campaign positioning
-- coordinated branding assets and presentation materials
-- supported audience-focused communication and conversion strategy
-- aligned visual identity with business goals
-- worked across content, timing, and delivery priorities
-
-**Skills:** `Brand Strategy` `Communication` `Campaign Planning` `Content Direction` `Execution`
-
-### Technical / Project Contributor — Student Engineering Work
-**2024 — Present**
-
-Built and iterated on software projects across web development, automation, AI-assisted tools, and technical problem-solving. The work emphasizes practical engineering over theory-only outputs.
-
-- developed modular applications with reusable architecture
-- built interfaces with strong visual hierarchy and usability
-- integrated AI workflows into real features
-- improved code structure, maintainability, and performance
-- used projects as proof of skill for internships and technical roles
-
-**Skills:** `Python` `TypeScript` `React` `AI Integration` `UI Engineering` `Git`
+**TCS NextStep Program** | **Tata Consultancy Services**  
+*Trainee / Program Participant*  
+• Engaged in enterprise-level software engineering paradigms and corporate technical workflows.  
+• Mastered foundational IT frameworks and large-scale system deployment methodologies.  
+• `Enterprise IT` `System Analysis` `Problem Solving`
 
 ---
 
-## Achievements
-
-<p align="center">
+### ✦ Achievements
 
 | Recognition | Details |
-|---|---|
-| Production-Grade Student Projects | Built multiple complete applications with real-world structure, UI polish, and maintainable code |
-| AI Product Execution | Integrated AI capabilities into practical tools rather than experimental demos |
-| Full-Stack Portfolio Depth | Demonstrated breadth across frontend, backend, logic, analytics, and deployment |
-| Engineering Brand Presence | Curated a clean, recruiter-friendly GitHub profile and project showcase |
-
-</p>
+| :---: | :--- |
+| **Winner, Coder's Feud** | Secured 1st place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constraints. |
+| **Participant, Kagglethon** | Competed in a rigorous 24-hour overnight hackathon focused on machine learning and predictive data modeling. |
 
 ---
 
-## Certifications
+### ✦ Certifications
 
-### AWS
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-8b5cf6?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws badge" />
-</p>
+**AWS (Amazon Web Services)**  
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 
-### Oracle
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-7c3aed?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle badge" />
-  <img src="https://img.shields.io/badge/Oracle-SQL%20Fundamentals-6366f1?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle badge" />
-</p>
+**Oracle**  
+<img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
 
-### NPTEL
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20and%20Problem%20Solving-4f46e5?style=for-the-badge" alt="nptel badge" />
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20and%20Algorithms-8b5cf6?style=for-the-badge" alt="nptel badge" />
-</p>
+**NPTEL**  
+<img src="https://img.shields.io/badge/NPTEL-Computer_Science_Core-0055A5?style=flat-square" alt="NPTEL" />
 
-### Cisco
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-111827?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco badge" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-7c3aed?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco badge" />
-</p>
+**Cisco**  
+<img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 
 ---
 
-## Coding Profiles
+### ✦ Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+<div align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Elite_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-5_Star_Coder-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
+
+---
+
+### ✦ GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### ✦ GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
+</div>
+
+---
+
+### ✦ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+### ✦ Contribution Snake
+
+<div align="center">
+  <a href="https://github.com/Vortex4047">
+    <img src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" />
   </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" />
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00ea64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
-  </a>
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5b4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" />
-  </a>
-</p>
+</div>
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github" height="180" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF" height="180" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180" alt="top languages" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="github trophies" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## Current Focus
+### ✦ Current Focus
 
 ```yaml
-learning:
-  - advanced full-stack architecture
-  - AI product engineering
-  - scalable frontend systems
-  - practical system design fundamentals
-
-building:
-  - finance and productivity applications
-  - clean developer tooling
-  - polished portfolio projects
-  - AI-assisted workflow features
-
-exploring:
-  - better state management patterns
-  - production UI systems
-  - local AI integration
-  - performance-focused web engineering
-
-open_to:
-  - software engineering internships
-  - AI / ML engineering roles
-  - full-stack product roles
-  - open-source collaboration
+profile_status:
+  learning: 
+    - "Advanced Distributed Systems"
+    - "Cloud-Native Architecture (Kubernetes, Terraform)"
+  building:
+    - "Scalable Microservices with Node.js & TypeScript"
+    - "AI-driven developer productivity tools"
+  exploring:
+    - "Large Language Model (LLM) fine-tuning"
+    - "Vector Databases & Semantic Search"
+  open_to:
+    - "Full-Time Software Engineering Opportunities"
+    - "Research & Development Internships"
