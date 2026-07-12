@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Premium Developer Banner" src="dark.svg" width="100%">
+</picture>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Kritik%20Saha&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=20&descColor=E0AAFF" alt="Header Wave" width="100%" />
 
