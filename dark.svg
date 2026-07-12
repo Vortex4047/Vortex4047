@@ -1,0 +1,209 @@
+<!-- dark.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <defs>
+    <!-- Background Ethereal Glow -->
+    <radialGradient id="bgGlow1" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#030712" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="bgGlow2" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#030712" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Plasma Text Gradient -->
+    <linearGradient id="plasma" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#10B981" />
+      <animate attributeName="x1" values="0%; 100%; 0%" dur="15s" repeatCount="indefinite" />
+      <animate attributeName="y1" values="0%; 100%; 0%" dur="15s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Edge Shimmer Gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.02)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.2)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0.02)" />
+      <animate attributeName="x1" values="-100%; 200%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%; 300%" dur="4s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Quantum Noise Filter -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 0.05 0" />
+    </filter>
+
+    <!-- Ambient Glow Filter -->
+    <filter id="ambientGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Pill Base Shadow -->
+    <filter id="pillShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComponentTransfer><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Typing ClipPath -->
+    <clipPath id="typingClip">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0; 320; 320; 0" keyTimes="0; 0.4; 0.8; 1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1; 1 0 1 1; 0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+
+    <!-- Decryption ClipPath for ASCII -->
+    <clipPath id="decryptClip">
+      <rect x="0" y="0" width="100%" height="0">
+        <animate attributeName="height" values="0; 100%" dur="2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Deep Space Core & Noise -->
+  <rect width="1180" height="610" fill="#030712" />
+  <rect width="1180" height="610" fill="url(#bgGlow1)" />
+  <rect width="1180" height="610" fill="url(#bgGlow2)" />
+  <rect width="1180" height="610" filter="url(#noise)" style="mix-blend-mode: overlay;" />
+
+  <!-- ZONE A: Holographic ASCII Construct -->
+  <g transform="translate(24, 24)">
+    <rect width="430" height="562" rx="16" fill="#0F172A" fill-opacity="0.6" stroke="url(#shimmer)" stroke-width="1.5" />
+    <g clip-path="url(#decryptClip)">
+      <g style="font-family: monospace; font-size: 11px; font-weight: bold; letter-spacing: 2px;" fill="url(#plasma)">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1; 0.25 0.1 0.25 1" />
+        <text x="35" y="90">        _,met$$$$$gg.        </text>
+        <text x="35" y="110">     ,g$$$$$$$$$$$$$$P.     </text>
+        <text x="35" y="130">   ,g$$P""       """Y$$.".  </text>
+        <text x="35" y="150">  ,$$P'              `$$$.  </text>
+        <text x="35" y="170"> ',$$P       ,ggs.     `$$b:</text>
+        <text x="35" y="190"> `d$$'     ,$P"'   .    $$$ </text>
+        <text x="35" y="210">  $$P      d$'     ,    $$P </text>
+        <text x="35" y="230">  $$:      $$.   -    ,d$$' </text>
+        <text x="35" y="250">  $$;      Y$b._   _,d$P'   </text>
+        <text x="35" y="270">  Y$$.    `.`"Y$$$$P"'      </text>
+        <text x="35" y="290">  `$$b      "-.__           </text>
+        <text x="35" y="310">   `Y$$b                    </text>
+        <text x="35" y="330">    `Y$$.                   </text>
+        <text x="35" y="350">      `$$b.                 </text>
+        <text x="35" y="370">        `Y$$b.              </text>
+        <text x="35" y="390">          `"Y$b._           </text>
+        <text x="35" y="410">              `""""         </text>
+      </g>
+    </g>
+    <!-- Moving Scanline -->
+    <rect x="0" y="0" width="430" height="4" fill="url(#plasma)" opacity="0.3">
+      <animate attributeName="y" values="0; 562; 0" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- ZONE B: Neural Interface Terminal -->
+  <g transform="translate(478, 24)">
+    <rect width="678" height="562" rx="16" fill="#0F172A" fill-opacity="0.6" stroke="url(#shimmer)" stroke-width="1.5" />
+    
+    <!-- Command Line Interface -->
+    <g transform="translate(48, 64)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+      <!-- Intro -->
+      <text x="0" y="0" font-size="36" font-weight="800" fill="#F8FAFC">Hi 👋 I'm Developer</text>
+      
+      <!-- Typewriter Loop -->
+      <g transform="translate(0, 48)">
+        <text x="0" y="0" font-size="24" font-weight="600" fill="url(#plasma)" clip-path="url(#typingClip)">
+          Frontend Alchemist | Systems Architect
+        </text>
+        <!-- Blinking Cursor -->
+        <rect x="0" y="-20" width="12" height="24" fill="#00F0FF">
+          <animate attributeName="x" values="0; 330; 330; 0" keyTimes="0; 0.4; 0.8; 1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1; 1 0 1 1; 0.25 0.1 0.25 1" />
+          <animate attributeName="opacity" values="1; 0; 1" dur="0.8s" repeatCount="indefinite" />
+        </rect>
+      </g>
+
+      <!-- Telemetry Data (Cascading Reveal) -->
+      <g transform="translate(0, 110)" font-size="16" font-weight="500" fill="#8B949E">
+        <text x="0" y="0" opacity="0">📍 Location: Earth, Sector 001
+          <animate attributeName="opacity" values="0;1" dur="1s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+          <animateTransform attributeName="transform" type="translate" values="-20,0; 0,0" dur="1s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+        </text>
+        <text x="0" y="32" opacity="0">🎓 Education: Neural Net Academics
+          <animate attributeName="opacity" values="0;1" dur="1s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+          <animateTransform attributeName="transform" type="translate" values="-20,0; 0,0" dur="1s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+        </text>
+        <text x="0" y="64" opacity="0">⚡ Current Focus: High-Performance UI / AI Integration
+          <animate attributeName="opacity" values="0;1" dur="1s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+          <animateTransform attributeName="transform" type="translate" values="-20,0; 0,0" dur="1s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+        </text>
+        <text x="0" y="96" opacity="0">🌐 Stack Signal: ONLINE
+          <animate attributeName="opacity" values="0;1" dur="1s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+          <animateTransform attributeName="transform" type="translate" values="-20,0; 0,0" dur="1s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+        </text>
+      </g>
+
+      <!-- Tech Stack Matrix -->
+      <g transform="translate(0, 260)" font-size="14" font-weight="600" fill="#F8FAFC">
+        <!-- Row 1 -->
+        <g transform="translate(0, 0)" filter="url(#pillShadow)">
+          <rect width="80" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="40" y="21" text-anchor="middle">React</text>
+        </g>
+        <g transform="translate(96, 0)" filter="url(#pillShadow)">
+          <rect width="90" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="45" y="21" text-anchor="middle">Next.js</text>
+        </g>
+        <g transform="translate(202, 0)" filter="url(#pillShadow)">
+          <rect width="110" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="55" y="21" text-anchor="middle">TypeScript</text>
+        </g>
+        <g transform="translate(328, 0)" filter="url(#pillShadow)">
+          <rect width="70" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="35" y="21" text-anchor="middle">Rust</text>
+        </g>
+
+        <!-- Row 2 -->
+        <g transform="translate(0, 48)" filter="url(#pillShadow)">
+          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="42" y="21" text-anchor="middle">Python</text>
+        </g>
+        <g transform="translate(101, 48)" filter="url(#pillShadow)">
+          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="42" y="21" text-anchor="middle">WebGL</text>
+        </g>
+        <g transform="translate(202, 48)" filter="url(#pillShadow)">
+          <rect width="70" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="35" y="21" text-anchor="middle">AWS</text>
+        </g>
+        <g transform="translate(288, 48)" filter="url(#pillShadow)">
+          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
+          <text x="42" y="21" text-anchor="middle">Docker</text>
+        </g>
+      </g>
+
+      <!-- Comms Array (Social Vectors) -->
+      <g transform="translate(0, 420)" fill="#8B949E">
+        <!-- GitHub -->
+        <g transform="translate(0,0)" filter="url(#ambientGlow)">
+          <path d="M16 0C7.16 0 0 7.16 0 16c0 7.08 4.58 13.06 10.94 15.18.8.15 1.09-.35 1.09-.77 0-.38-.01-1.39-.02-2.73-4.45.97-5.39-2.15-5.39-2.15-.73-1.85-1.78-2.34-1.78-2.34-1.46-.99.11-.97.11-.97 1.61.11 2.46 1.66 2.46 1.66 1.43 2.45 3.76 1.74 4.67 1.33.14-1.04.56-1.74 1.02-2.14-3.55-.4-7.29-1.78-7.29-7.9 0-1.75.62-3.17 1.64-4.29-.16-.4-.71-2.03.16-4.23 0 0 1.34-.43 4.38 1.63a15.2 15.2 0 0 1 7.98 0c3.04-2.06 4.38-1.63 4.38-1.63.87 2.2.32 3.83.16 4.23 1.02 1.12 1.64 2.54 1.64 4.29 0 6.13-3.75 7.49-7.31 7.89.58.5 1.09 1.49 1.09 3.01 0 2.17-.02 3.92-.02 4.45 0 .42.29.93 1.1.77C27.43 29.05 32 23.08 32 16 32 7.16 24.84 0 16 0z" />
+          <animate attributeName="fill" values="#8B949E; #00F0FF; #8B949E" dur="4s" repeatCount="indefinite" />
+        </g>
+        <!-- Twitter / X -->
+        <g transform="translate(56, 4)" filter="url(#ambientGlow)">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          <animate attributeName="fill" values="#8B949E; #7C3AED; #8B949E" dur="4s" begin="1s" repeatCount="indefinite" />
+        </g>
+        <!-- LinkedIn -->
+        <g transform="translate(112, 0)" filter="url(#ambientGlow)">
+          <path d="M29.6 0H2.4C1.1 0 0 1.1 0 2.4v27.2C0 30.9 1.1 32 2.4 32h27.2c1.3 0 2.4-1.1 2.4-2.4V2.4C32 1.1 30.9 0 29.6 0zM9.5 27.3H4.7V12h4.8v15.3zM7.1 9.9c-1.5 0-2.8-1.2-2.8-2.8 0-1.5 1.2-2.8 2.8-2.8 1.5 0 2.8 1.2 2.8 2.8 0 1.6-1.3 2.8-2.8 2.8zm20.2 17.4h-4.8v-7.4c0-1.8 0-4.1-2.5-4.1-2.5 0-2.9 1.9-2.9 3.9v7.6h-4.8V12h4.6v2.1h.1c.6-1.2 2.2-2.5 4.5-2.5 4.8 0 5.7 3.2 5.7 7.3v8.4z"/>
+          <animate attributeName="fill" values="#8B949E; #10B981; #8B949E" dur="4s" begin="2s" repeatCount="indefinite" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
