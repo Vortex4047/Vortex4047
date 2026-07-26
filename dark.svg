@@ -160,30 +160,13 @@
         </g>
         <g transform="translate(202, 0)" filter="url(#pillShadow)">
           <rect width="110" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
-          <text x="55" y="21" text-anchor="middle">TypeScript</text>
+          <text x="55" y="21" text-anchor="middle">JavaScript</text>
         </g>
         <g transform="translate(328, 0)" filter="url(#pillShadow)">
           <rect width="70" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
           <text x="35" y="21" text-anchor="middle">Rust</text>
         </g>
-
-        <!-- Row 2 -->
-        <g transform="translate(0, 48)" filter="url(#pillShadow)">
-          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
-          <text x="42" y="21" text-anchor="middle">Python</text>
-        </g>
-        <g transform="translate(101, 48)" filter="url(#pillShadow)">
-          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
-          <text x="42" y="21" text-anchor="middle">WebGL</text>
-        </g>
-        <g transform="translate(202, 48)" filter="url(#pillShadow)">
-          <rect width="70" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
-          <text x="35" y="21" text-anchor="middle">AWS</text>
-        </g>
-        <g transform="translate(288, 48)" filter="url(#pillShadow)">
-          <rect width="85" height="32" rx="16" fill="#1E293B" stroke="url(#plasma)" stroke-width="1" />
-          <text x="42" y="21" text-anchor="middle">Docker</text>
-        </g>
+        
       </g>
 
       <!-- Comms Array (Social Vectors) -->
