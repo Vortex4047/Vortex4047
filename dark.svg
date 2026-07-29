@@ -72,7 +72,7 @@
 
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;display=swap');
-    .font-code { font-family: 'Fira Code', -apple-system, BlinkMacSystemFont, monospace; }
+    .font-code { font-family: 'Fira Code', 'Courier New', Courier, monospace; }
     .pill { transition: all 0.3s ease; cursor: pointer; }
     .pill:hover { transform: scale(1.06); filter: url(#pillGlowDark); }
     .social-icon { transition: all 0.3s ease; fill: #8b949e; }
@@ -114,28 +114,27 @@
 
     <g transform="translate(20, 75)">
       <animateTransform attributeName="transform" type="translate" values="20 75; 20 68; 20 75" dur="5s" repeatCount="indefinite" />
-      <text class="font-code" font-size="11" font-weight="700" fill="url(#asciiGradDark)" filter="url(#glowDark)" xml:space="preserve">
-        <tspan x="0" y="20" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze" />       ____...--------...____       </tspan>
-        <tspan x="0" y="38" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze" />    .-'  _.--""'""""'""--._  '-.    </tspan>
-        <tspan x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze" />  .'  .-'  | ||    || |  '-.  '.  </tspan>
-        <tspan x="0" y="74" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze" /> /  .'   [|===|    |===|]   '.  \ </tspan>
-        <tspan x="0" y="92" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze" />|  /     ||   |    |   ||     \  |</tspan>
-        <tspan x="0" y="110" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.1s" fill="freeze" />| |      ||---|    |---||      | |</tspan>
-        <tspan x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.3s" fill="freeze" />| |      ||[0]|    |[0]||      | |</tspan>
-        <tspan x="0" y="146" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze" />| |      ||---|    |---||      | |</tspan>
-        <tspan x="0" y="164" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze" />|  \     ||   |    |   ||     /  |</tspan>
-        <tspan x="0" y="182" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.9s" fill="freeze" /> \  '.   [|===|    |===|]   .'  / </tspan>
-        <tspan x="0" y="200" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze" />  '.  '-.  |_||    ||_|  .-'  .'  </tspan>
-        <tspan x="0" y="218" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.3s" fill="freeze" />    '-._ '---..____..---' _.-'    </tspan>
-        <tspan x="0" y="236" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze" />        ""---..____..--""         </tspan>
-        <tspan x="0" y="265" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze" />       /=====================\      </tspan>
-        <tspan x="0" y="285" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze" />      || VORTEX_4047 : ONLINE ||    </tspan>
-        <tspan x="0" y="305" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.1s" fill="freeze" />      || SYS : NEURAL_MATRIX  ||    </tspan>
-        <tspan x="0" y="325" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.3s" fill="freeze" />       \=====================/      </tspan>
-        <tspan x="0" y="355" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" />       01001011 01010010 01001      </tspan>
-        <tspan x="0" y="380" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.7s" fill="freeze" />      &gt; SEC_MODE : ROOT_ACCESS &lt;    </tspan>
+      <text class="font-code" font-size="11.5" font-weight="700" fill="url(#asciiGradDark)" filter="url(#glowDark)" xml:space="preserve">
+        <tspan x="0" y="20" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze" />       _.--""''''''''""--._       </tspan>
+        <tspan x="0" y="38" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze" />    .-'  __.--""""""--.__  '-.    </tspan>
+        <tspan x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze" />  .'  .-'  |  ||||  |  '-.  '.  </tspan>
+        <tspan x="0" y="74" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze" /> /  .'  [|==|  ||  |==|]  '.  \ </tspan>
+        <tspan x="0" y="92" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze" />|  /    ||---|    |---||    \  |</tspan>
+        <tspan x="0" y="110" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.1s" fill="freeze" />| |     ||[0]| || |[0]||     | |</tspan>
+        <tspan x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.3s" fill="freeze" />| |     ||---|    |---||     | |</tspan>
+        <tspan x="0" y="146" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze" />|  \    [|==|  ||  |==|]    /  |</tspan>
+        <tspan x="0" y="164" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze" /> \  '.  '  |  ||||  |  '  .'  / </tspan>
+        <tspan x="0" y="182" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.9s" fill="freeze" />  '.  '-._ |__||||__| _.-'  .'  </tspan>
+        <tspan x="0" y="200" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze" />    '-._ '---......---' _.-'    </tspan>
+        <tspan x="0" y="218" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.3s" fill="freeze" />        ""---.____.---""        </tspan>
+        <tspan x="0" y="250" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze" />    /======================\    </tspan>
+        <tspan x="0" y="272" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze" />   || VORTEX_4047 : ONLINE ||   </tspan>
+        <tspan x="0" y="294" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze" />   || SYS : NEURAL_MATRIX  ||   </tspan>
+        <tspan x="0" y="316" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.1s" fill="freeze" />    \======================/    </tspan>
+        <tspan x="0" y="348" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.3s" fill="freeze" />    01001011  01010010  0100    </tspan>
+        <tspan x="0" y="372" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" />   &gt; SEC_MODE : ROOT_ACCESS &lt;   </tspan>
       </text>
-      <rect x="294" y="368" width="10" height="15" fill="#00f2fe">
+      <rect x="250" y="358" width="10" height="15" fill="#00f2fe">
         <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
       </rect>
     </g>
