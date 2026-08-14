@@ -7,9 +7,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Kritik%20Saha&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=20&descColor=E0AAFF" alt="Header Wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Kritik%20Saha&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20[...]" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Software+Systems;Architecting+AI+%2F+ML+Solutions;Full-Stack+Engineering+Excellence;Data-Driven+Product+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Software+Systems;Ar[...]" />
 
   <br />
 
@@ -39,9 +39,9 @@
 
 ### ✦ About Me
 
-I am a **Software Engineer** focusing on high-performance backend systems, full-stack architecture, and applied machine learning. With a strong foundation in computer science and engineering, I specialize in translating complex algorithms into scalable, enterprise-grade applications. 
+I am a **Software Engineer** focusing on high-performance backend systems, full-stack architecture, and applied machine learning. With a strong foundation in computer science and engineering, I sp[...]
 
-My engineering philosophy centers around a **product-first mindset**—building robust, maintainable solutions that deliver measurable impact. Whether architecting database schemas, deploying microservices, or developing AI models, I prioritize system integrity, performance optimization, and clean code architecture.
+My engineering philosophy centers around a **product-first mindset**—building robust, maintainable solutions that deliver measurable impact. Whether architecting database schemas, deploying micr[...]
 
 **Open To:** Software Engineering Roles • AI/ML Engineering Positions • Research Internships • Open Source Collaborations
 
@@ -50,16 +50,16 @@ My engineering philosophy centers around a **product-first mindset**—building 
 ### ✦ Tech Stack
 
 **Programming Languages**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java&theme=dark" alt="Languages" /></a>
 
 **Frontend Architecture**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" alt="Frontend" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" /></a>
 
 **Backend & Databases**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis&theme=dark" alt="Backend & DB" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend & DB" /></a>
 
 **Cloud, DevOps & Tooling**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,bash,postman&theme=dark" alt="DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="DevOps" /></a>
 
 ---
 
@@ -90,7 +90,7 @@ My engineering philosophy centers around a **product-first mindset**—building 
   | **Impact** | Provides granular insights into developer productivity and code patterns |
   | **Repository** | [View Source Code](https://github.com/Vortex4047) |
 
-  *Professional Context:* Architected the entire system from the ground up, focusing heavily on asynchronous state management and decoupling the backend data ingestion services from the frontend visualization layers to ensure maximum responsiveness.
+  *Professional Context:* Architected the entire system from the ground up, focusing heavily on asynchronous state management and decoupling the backend data ingestion services from the frontend v[...]
 </details>
 
 <details>
@@ -107,7 +107,7 @@ My engineering philosophy centers around a **product-first mindset**—building 
   | **Impact** | Significantly reduces debugging time and standardizes code quality |
   | **Repository** | [View Source Code](https://github.com/Vortex4047) |
 
-  *Professional Context:* Engineered a robust graphical user interface using Tkinter, integrating seamless dynamic AI model selection. Focused on creating an intuitive developer experience while maintaining strict error handling and system stability.
+  *Professional Context:* Engineered a robust graphical user interface using Tkinter, integrating seamless dynamic AI model selection. Focused on creating an intuitive developer experience while [...]
 </details>
 
 ---
@@ -138,7 +138,7 @@ My engineering philosophy centers around a **product-first mindset**—building 
 
 | Recognition | Details |
 | :---: | :--- |
-| **Winner, Coder's Feud** | Secured 1st place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constraints. |
+| **Winner, Coder's Feud** | Secured 1st place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constrain[...] |
 | **Participant, Kagglethon** | Competed in a rigorous 24-hour overnight hackathon focused on machine learning and predictive data modeling. |
 
 ---
@@ -173,14 +173,14 @@ My engineering philosophy centers around a **product-first mindset**—building 
 ### ✦ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&show_icons=true[...]" />
+  <img src="https://streak-stats.demolab.com/?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1[...]" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="T[...]" />
 </p>
 
 ---
@@ -196,7 +196,7 @@ My engineering philosophy centers around a **product-first mindset**—building 
 ### ✦ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" wi[...]" />
 </div>
 
 ---
@@ -226,3 +226,4 @@ profile_status:
   open_to:
     - "Full-Time Software Engineering Opportunities"
     - "Research & Development Internships"
+  
