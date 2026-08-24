@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Kritik%20Saha&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Developer&descAlignY=52&descSize=22" alt="Profile Header" width="100%" />
+ 
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Software+Systems;Architecting+Modern+Backend+Solutions;Passionate+About+AI+Driven+Engineering" alt="Typing Animation" />
 
