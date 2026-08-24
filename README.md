@@ -126,7 +126,7 @@ My engineering philosophy centers around a **product-first mindset**—building 
 
 | Recognition | Details |
 | :---: | :--- |
-| **Winner, Coder's Feud** | Secured 1st place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constraints. |
+| **Winner, Coder's Feud** | Secured 2nd place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constraints. |
 | **Participant, Kagglethon** | Competed in a rigorous 24-hour overnight hackathon focused on machine learning and predictive data modeling. |
 
 ---
