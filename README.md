@@ -50,13 +50,13 @@ My engineering philosophy centers around a **product-first mindset**—building 
 ### ✦ Tech Stack
 
 **Programming Languages**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Languages" /></a>
 
 **Frontend Architecture**  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" /></a>
 
 **Backend & Databases**  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend & DB" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres&theme=dark" alt="Backend & DB" /></a>
 
 **Cloud, DevOps & Tooling**  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="DevOps" /></a>
@@ -120,18 +120,6 @@ My engineering philosophy centers around a **product-first mindset**—building 
 • Collaborated with engineering teams to optimize backend data flow and script execution times.  
 • `Python` `Backend Engineering` `Data Structures` `API Integration`
 
-**Technical Intern** | **Ziventra**  
-*Engineering & Development*  
-• Participated in full-lifecycle software development tasks including requirements gathering, coding, and testing.  
-• Assisted in deploying system updates and refining core logic modules.  
-• `Software Architecture` `Agile Methodologies` `Version Control`
-
-**TCS NextStep Program** | **Tata Consultancy Services**  
-*Trainee / Program Participant*  
-• Engaged in enterprise-level software engineering paradigms and corporate technical workflows.  
-• Mastered foundational IT frameworks and large-scale system deployment methodologies.  
-• `Enterprise IT` `System Analysis` `Problem Solving`
-
 ---
 
 ### ✦ Achievements
@@ -140,33 +128,6 @@ My engineering philosophy centers around a **product-first mindset**—building 
 | :---: | :--- |
 | **Winner, Coder's Feud** | Secured 1st place in the competitive coding event organized by MUJ ACM. Demonstrated superior algorithmic problem-solving and optimization skills under time constraints. |
 | **Participant, Kagglethon** | Competed in a rigorous 24-hour overnight hackathon focused on machine learning and predictive data modeling. |
-
----
-
-### ✦ Certifications
-
-**AWS (Amazon Web Services)**  
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-
-**Oracle**  
-<img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-
-**NPTEL**  
-<img src="https://img.shields.io/badge/NPTEL-Computer_Science_Core-0055A5?style=flat-square" alt="NPTEL" />
-
-**Cisco**  
-<img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-
----
-
-### ✦ Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Elite_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-5_Star_Coder-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
 
 ---
 
