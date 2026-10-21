@@ -151,11 +151,19 @@ A featured build from this profile.
 ---
 
 
+---
+
 ### ✦ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/activity-graph.svg"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
+
+---
 
 ---
 
