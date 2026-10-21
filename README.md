@@ -1,36 +1,16 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Kritik Saha GitHub Profile Banner" src="./dark.svg" width="100%">
-  </picture>
-</p>
-
 <div align="center">
- 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Software+Systems;Architecting+Modern+Backend+Solutions;Passionate+About+AI+Driven+Engineering" alt="Typing Animation" />
+<br/>
 
-  <br />
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Full-Stack%20Engineer;Building%20with%20Python%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20Learning%20%C2%B7%20Shipping" alt="" /></a>
 
-  <!-- Academic & Location Badges -->
-  <img src="https://img.shields.io/badge/Education-B.Tech_CSE_@_MUJ-5A189A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
-  <img src="https://img.shields.io/badge/Location-India-3C096C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<br/>
 
-  <br /><br />
+<a href="https://linkedin.com/in/kritik-saha-muj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;labelColor=0d1117" alt="LinkedIn" /></a> <a 
+   href="mailto:kritik.saha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br/><br/>
 
-  <!-- Social & Connection Buttons -->
-  <a href="https://vortex4047.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-9D4EDD?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kritiksaha"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kritik.saha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Vortex4047"><img src="https://img.shields.io/badge/GitHub-Vortex4047-3C096C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-  <br /><br />
-
-  <!-- GitHub Statistics Badges -->
-  <img src="https://komarev.com/ghpvc/?username=Vortex4047&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Vortex4047?color=7B2CBF&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Vortex4047?color=5A189A&style=flat-square&label=STARS" alt="Stars" />
 </div>
 
 <br />
@@ -73,54 +53,70 @@ My engineering philosophy centers around a **product-first mindset**—building 
 | **Computer Vision** | Intermediate | Implementation of convolutional neural networks (CNNs) for image classification and spatial data analysis. |
 
 ---
+## 🌌 Featured Projects
 
-### ✦ Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**uxd_project**
+
+a project for user experience design
+
+`JavaScript` · `0 stars`
+
+<a href="https://github.com/Vortex4047/uxd_project"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**QueryPerf_ai**
+
+A featured build from this profile.
+
+`Python` · `0 stars`
+
+<a href="https://github.com/Vortex4047/QueryPerf_ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**github-profile-summarizer**
+
+A simple frontend focused site which summarises your github profile just by your username
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/Vortex4047/github-profile-summarizer"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**FORGE-3D**
+
+A featured build from this profile.
+
+`Python` · `0 stars`
+
+<a href="https://github.com/Vortex4047/FORGE-3D"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
 
 <details>
-  <summary><b>▸ Full-Stack GitHub Analytics Dashboard</b></summary>
-  <br />
-  A comprehensive, high-performance web application designed to visualize a developer's coding journey by deeply integrating with the GitHub REST API and GraphQL infrastructure.
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
 
-  | Attribute | Details |
-  | :--- | :--- |
-  | **Stack** | TypeScript, React.js, Node.js, Express, Chart.js |
-  | **Scale** | Multi-user capable, handling concurrent external API polling |
-  | **Performance** | Optimized rendering of large datasets with state-caching mechanisms |
-  | **Security** | Implemented secure token handling and OAuth constraints |
-  | **Impact** | Provides granular insights into developer productivity and code patterns |
-  | **Repository** | [View Source Code](https://github.com/Vortex4047) |
+<br/>
 
-  *Professional Context:* Architected the entire system from the ground up, focusing heavily on asynchronous state management and decoupling the backend data ingestion services from the frontend visualization layer.
+- **Finance_AI_Dashboard** — Featured work · <a href="https://github.com/Vortex4047/Finance_AI_Dashboard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **restaurant-management** — Featured work · <a href="https://github.com/Vortex4047/restaurant-management"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **wildlife-record** — Featured work · <a href="https://github.com/Vortex4047/wildlife-record"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
 </details>
 
-<details>
-  <summary><b>▸ Enhanced Code Helper Pro</b></summary>
-  <br />
-  An intelligent, desktop-based development assistant that leverages artificial intelligence to analyze, debug, and optimize codebase structures across multiple programming languages.
-
-  | Attribute | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Tkinter, AI Inference APIs |
-  | **Scale** | Standalone enterprise desktop utility |
-  | **Performance** | Low-latency response processing with asynchronous I/O |
-  | **Security** | Local execution environment with encrypted API key management |
-  | **Impact** | Significantly reduces debugging time and standardizes code quality |
-  | **Repository** | [View Source Code](https://github.com/Vortex4047) |
-
-  *Professional Context:* Engineered a robust graphical user interface using Tkinter, integrating seamless dynamic AI model selection. Focused on creating an intuitive developer experience while maintaining modular architecture and high responsiveness.
-</details>
-
----
-
-### ✦ Experience
-
-**Software Developer Intern** | **Atlys Nexus Innovations**  
-*Python Developer Internship Program*  
-• Developed and maintained modular Python scripts for internal toolchains.  
-• Collaborated with engineering teams to optimize backend data flow and script execution times.  
-• `Python` `Backend Engineering` `Data Structures` `API Integration`
-
----
 
 ### ✦ Achievements
 
@@ -131,34 +127,35 @@ My engineering philosophy centers around a **product-first mindset**—building 
 
 ---
 
+
 ### ✦ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vortex4047&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&show_icons=true[...]
-  <img src="https://streak-stats.demolab.com?user=Vortex4047&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1D[...]
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vortex4047&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Vortex4047&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=C9D1D9&currStreakLabel=9D4EDD&sideNums=C9D1D9&sideLabels=C9D1D9&dates=808080" alt="GitHub Streak" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&langs_c[...]
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
+
 
 ### ✦ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositor[...]
+  <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
+
 ### ✦ Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" wi[...]
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex4047&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
