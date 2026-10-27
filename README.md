@@ -139,31 +139,6 @@ A featured build from this profile.
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex4047&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
----
-
-
-### ✦ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vortex4047&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-
----
-
-### ✦ Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vortex4047/Vortex4047/output/activity-graph.svg"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
 
 ---
 
